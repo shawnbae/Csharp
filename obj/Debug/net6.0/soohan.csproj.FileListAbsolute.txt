@@ -1,0 +1,15 @@
+/Users/soohan/Csharp/bin/Debug/net6.0/soohan
+/Users/soohan/Csharp/bin/Debug/net6.0/soohan.deps.json
+/Users/soohan/Csharp/bin/Debug/net6.0/soohan.runtimeconfig.json
+/Users/soohan/Csharp/bin/Debug/net6.0/soohan.dll
+/Users/soohan/Csharp/bin/Debug/net6.0/ref/soohan.dll
+/Users/soohan/Csharp/bin/Debug/net6.0/soohan.pdb
+/Users/soohan/Csharp/obj/Debug/net6.0/soohan.csproj.AssemblyReference.cache
+/Users/soohan/Csharp/obj/Debug/net6.0/soohan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soohan/Csharp/obj/Debug/net6.0/soohan.AssemblyInfoInputs.cache
+/Users/soohan/Csharp/obj/Debug/net6.0/soohan.AssemblyInfo.cs
+/Users/soohan/Csharp/obj/Debug/net6.0/soohan.csproj.CoreCompileInputs.cache
+/Users/soohan/Csharp/obj/Debug/net6.0/soohan.dll
+/Users/soohan/Csharp/obj/Debug/net6.0/ref/soohan.dll
+/Users/soohan/Csharp/obj/Debug/net6.0/soohan.pdb
+/Users/soohan/Csharp/obj/Debug/net6.0/soohan.genruntimeconfig.cache
