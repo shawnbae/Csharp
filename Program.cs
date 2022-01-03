@@ -24,6 +24,8 @@ namespace SSP_F
             SomeVal v2 = v1; // 스택에 신규 메모리 공간 할당 후 복사
             r1.x = 8;
             v1.x = 8;
+            string threshold = string.Concat(Enumerable.Repeat("-", 100));
+            Console.WriteLine(threshold);
             Console.WriteLine(r1.x);
             Console.WriteLine(r2.x);
             Console.WriteLine(v1.x);
